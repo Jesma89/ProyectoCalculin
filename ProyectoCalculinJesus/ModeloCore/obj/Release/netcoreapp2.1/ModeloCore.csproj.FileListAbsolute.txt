@@ -1,0 +1,9 @@
+C:\Users\usuario\Desktop\ProyectoJesus261018\ModeloCore\bin\Release\netcoreapp2.1\ModeloCore.deps.json
+C:\Users\usuario\Desktop\ProyectoJesus261018\ModeloCore\bin\Release\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\ProyectoJesus261018\ModeloCore\bin\Release\netcoreapp2.1\ModeloCore.pdb
+C:\Users\usuario\Desktop\ProyectoJesus261018\ModeloCore\obj\Release\netcoreapp2.1\ModeloCore.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\ProyectoJesus261018\ModeloCore\obj\Release\netcoreapp2.1\ModeloCore.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ProyectoJesus261018\ModeloCore\obj\Release\netcoreapp2.1\ModeloCore.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\ProyectoJesus261018\ModeloCore\obj\Release\netcoreapp2.1\ModeloCore.AssemblyInfo.cs
+C:\Users\usuario\Desktop\ProyectoJesus261018\ModeloCore\obj\Release\netcoreapp2.1\ModeloCore.dll
+C:\Users\usuario\Desktop\ProyectoJesus261018\ModeloCore\obj\Release\netcoreapp2.1\ModeloCore.pdb

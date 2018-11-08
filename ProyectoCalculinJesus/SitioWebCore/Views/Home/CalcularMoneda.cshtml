@@ -1,0 +1,7 @@
+﻿@model SitioWebCore.ViewModels.ConversorViewModel
+
+<h1>Resultado de la conversion</h1>
+<h3> @Model.IdOrigen >>>>>> @Model.IdDestino</h3>
+<h3>Precio actual de la moneda @Model.IdOrigen @Model.Precio</h3>
+<h3>@Model.Cantidad @Model.IdOrigen son @Model.Resultado @Model.IdDestino</h3>
+<h3><a asp-area="" asp-controller="Home" asp-action="VerMonedas">Volver</a></h3>

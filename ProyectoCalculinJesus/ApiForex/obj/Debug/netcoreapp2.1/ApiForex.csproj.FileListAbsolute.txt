@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\ProyectoJesus261018\ApiForex\obj\Debug\netcoreapp2.1\ApiForex.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\ProyectoJesus261018\ApiForex\obj\Debug\netcoreapp2.1\ApiForex.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ProyectoJesus261018\ApiForex\obj\Debug\netcoreapp2.1\ApiForex.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\ProyectoJesus261018\ApiForex\obj\Debug\netcoreapp2.1\ApiForex.AssemblyInfo.cs
+C:\Users\usuario\Desktop\ProyectoJesus261018\ApiForex\bin\Debug\netcoreapp2.1\ApiForex.deps.json
+C:\Users\usuario\Desktop\ProyectoJesus261018\ApiForex\bin\Debug\netcoreapp2.1\ApiForex.dll
+C:\Users\usuario\Desktop\ProyectoJesus261018\ApiForex\bin\Debug\netcoreapp2.1\ApiForex.pdb
+C:\Users\usuario\Desktop\ProyectoJesus261018\ApiForex\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\usuario\Desktop\ProyectoJesus261018\ApiForex\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\usuario\Desktop\ProyectoJesus261018\ApiForex\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\usuario\Desktop\ProyectoJesus261018\ApiForex\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\usuario\Desktop\ProyectoJesus261018\ApiForex\obj\Debug\netcoreapp2.1\ApiForex.csproj.CopyComplete
+C:\Users\usuario\Desktop\ProyectoJesus261018\ApiForex\obj\Debug\netcoreapp2.1\ApiForex.dll
+C:\Users\usuario\Desktop\ProyectoJesus261018\ApiForex\obj\Debug\netcoreapp2.1\ApiForex.pdb

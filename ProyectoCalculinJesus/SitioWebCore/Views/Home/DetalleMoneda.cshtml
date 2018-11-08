@@ -1,0 +1,41 @@
+﻿@model Modelo.Moneda
+<h2>@Model.Abreviatura</h2>
+<div class="thumbnail">
+    <img alt="@Model.Nombre" src="https://www.worldatlas.com/r/w728-h425-c728x425/upload/d0/91/86/shutterstock-403371907.jpg">
+    <div class="caption-full">
+        <h3 class="pull-right">@Model.Abreviatura</h3>
+        <h3>
+            <a href="#">@Model.Nombre</a>
+        </h3>
+       <h3><a asp-area="" asp-controller="Home" asp-action="VerMonedas">Menu Principal</a></h3> 
+        @*<h4>@Model.ShortDescription</h4>
+        <p>@Model.LongDescription</p>*@
+    </div>
+    <form asp-action="Detallemoneda" method="post" class="form-horizontal" role="form">
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+    
+        <div class="form-group">
+        <label asp-for="Abreviatura" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="Abreviatura" class="form-control" />
+            <span asp-validation-for="Abreviatura" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Nombre" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="Nombre" class="form-control" />
+            <span asp-validation-for="Nombre" class="text-danger"></span>
+        </div>
+    </div>
+    
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-5">
+            <input type="submit" class="btn btn-primary" value="Convertir Moneda" />
+        </div>
+    </div>
+
+</form>
+</div>

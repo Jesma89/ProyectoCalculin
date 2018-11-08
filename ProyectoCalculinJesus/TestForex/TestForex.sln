@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestForex", "TestForex\TestForex.csproj", "{D3C0371F-66F8-4784-B244-3FABEEA5617A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForexQuotes", "dotnet-forex-quotes-master\ForexQuotes.csproj", "{CCF79B70-7079-4045-A7A7-AE83037EB50C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForexClient", "dotnet-core-forex-quotes-master\ForexClient.csproj", "{E744D53B-E58B-406F-94FC-F20C0EA7B2E0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{3BD8A992-1D42-41C3-A075-F3F927B5CDF2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Net", "Net", "{F7F21C22-4E63-4DCD-B08C-531FFFA01DE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3C0371F-66F8-4784-B244-3FABEEA5617A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3C0371F-66F8-4784-B244-3FABEEA5617A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3C0371F-66F8-4784-B244-3FABEEA5617A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3C0371F-66F8-4784-B244-3FABEEA5617A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF79B70-7079-4045-A7A7-AE83037EB50C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF79B70-7079-4045-A7A7-AE83037EB50C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF79B70-7079-4045-A7A7-AE83037EB50C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF79B70-7079-4045-A7A7-AE83037EB50C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E744D53B-E58B-406F-94FC-F20C0EA7B2E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E744D53B-E58B-406F-94FC-F20C0EA7B2E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E744D53B-E58B-406F-94FC-F20C0EA7B2E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E744D53B-E58B-406F-94FC-F20C0EA7B2E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CCF79B70-7079-4045-A7A7-AE83037EB50C} = {F7F21C22-4E63-4DCD-B08C-531FFFA01DE3}
+		{E744D53B-E58B-406F-94FC-F20C0EA7B2E0} = {3BD8A992-1D42-41C3-A075-F3F927B5CDF2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C734F996-697B-44C7-B961-A43E6FCF4B38}
+	EndGlobalSection
+EndGlobal

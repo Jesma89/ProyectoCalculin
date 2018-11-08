@@ -1,0 +1,104 @@
+﻿
+@using SitioWebCore.Data
+@using Microsoft.AspNetCore.Identity
+<!DOCTYPE html>
+@inject SignInManager<UsuarioConversor> SignInManager
+@inject UserManager<UsuarioConversor> UserManager
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Conversor de Divisas Calculin</title>
+
+    <environment include="Development">
+        <link rel="stylesheet" href="https://bootswatch.com/3/spacelab/bootstrap.css" />
+        <link rel="stylesheet" href="~/css/site.css" />
+    </environment>
+    <environment exclude="Development">
+        <link rel="stylesheet" href="https://bootswatch.com/3/spacelab/bootstrap.css" />
+        <link rel="stylesheet" href="https://bootswatch.com/3/spacelab/bootstrap.min.css"
+              asp-fallback-href="https://bootswatch.com/3/spacelab/bootstrap.min.css"
+              asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+        <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
+    </environment>
+</head>
+<body>
+
+
+
+    <ul class="breadcrumb">
+        <h3 class="">Conversor de Divisas Calculin</h3>
+        <a class="btn btn-info" asp-controller="Home" asp-action="Index">Home</a>
+        <a class="btn btn-info" asp-controller="Home" asp-action="Contact">Contacto</a>
+        @if (SignInManager.IsSignedIn(User))
+        {
+            <a class="btn btn-info" asp-controller="Home" asp-action="VerMonedas">Ver Monedas</a>
+            @*<li><a asp-area="" asp-controller="Home" asp-action="VerMonedas">Ver Monedas</a></li>*@
+
+        }
+        else
+        {
+            <a class="btn btn-info" asp-controller="Account" asp-action="LoginUsuario">Login</a>
+            @*<li><a asp-area="" asp-controller="Account" asp-action="LoginUsuario">Login </a></li>*@
+        }
+
+
+        @if (SignInManager.IsSignedIn(User))
+        {
+            <a class="btn btn-info" asp-controller="Account" asp-action="Logout">Deslogarse</a>
+            @*<li><a class="btn btn-primary" asp-controller="Account" asp-action="Logout">Log off</a></li>*@
+        }
+        else
+        {
+            <a class="btn btn-info" asp-controller="Account" asp-action="RegistrarUsuario">Registro Usuario</a>
+            @*<li><a asp-area="" asp-controller="Account" asp-action="RegistrarUsuario">Registro Usuario</a></li>*@
+        }
+          <div class="container body-content">
+       
+        <hr />
+        <footer>
+           @RenderBody()
+             @UserManager.GetUserName(User)
+            <p><h4>&copy; 2018 - Conversor de Divisas Calculin</h4></p>
+        </footer>
+    </div>
+
+     
+     
+   
+
+    </ul>
+    
+
+
+
+
+
+    <partial name="_CookieConsentPartial" />
+
+ 
+
+    <environment include="Development">
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+    </environment>
+    <environment exclude="Development">
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.3.1.min.js"
+                asp-fallback-src="~/lib/jquery/dist/jquery.min.js"
+                asp-fallback-test="window.jQuery"
+                crossorigin="anonymous"
+                integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT">
+        </script>
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/bootstrap.min.js"
+                asp-fallback-src="~/lib/bootstrap/dist/js/bootstrap.min.js"
+                asp-fallback-test="window.jQuery && window.jQuery.fn && window.jQuery.fn.modal"
+                crossorigin="anonymous"
+                integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa">
+        </script>
+        <script src="~/js/site.min.js" asp-append-version="true"></script>
+    </environment>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

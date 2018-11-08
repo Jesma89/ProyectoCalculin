@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\Proyecto\ArquitecturaPropuestaJesus\CalculinWeb\bin\Debug\netcoreapp2.1\AlojamientoCalculin.deps.json
+C:\Users\usuario\Desktop\Proyecto\ArquitecturaPropuestaJesus\CalculinWeb\bin\Debug\netcoreapp2.1\AlojamientoCalculin.runtimeconfig.json
+C:\Users\usuario\Desktop\Proyecto\ArquitecturaPropuestaJesus\CalculinWeb\bin\Debug\netcoreapp2.1\AlojamientoCalculin.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\Proyecto\ArquitecturaPropuestaJesus\CalculinWeb\bin\Debug\netcoreapp2.1\AlojamientoCalculin.dll
+C:\Users\usuario\Desktop\Proyecto\ArquitecturaPropuestaJesus\CalculinWeb\bin\Debug\netcoreapp2.1\AlojamientoCalculin.pdb
+C:\Users\usuario\Desktop\Proyecto\ArquitecturaPropuestaJesus\CalculinWeb\obj\Debug\netcoreapp2.1\AlojamientoCalculin.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Proyecto\ArquitecturaPropuestaJesus\CalculinWeb\obj\Debug\netcoreapp2.1\AlojamientoCalculin.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Proyecto\ArquitecturaPropuestaJesus\CalculinWeb\obj\Debug\netcoreapp2.1\AlojamientoCalculin.RazorAssemblyInfo.cache
+C:\Users\usuario\Desktop\Proyecto\ArquitecturaPropuestaJesus\CalculinWeb\obj\Debug\netcoreapp2.1\AlojamientoCalculin.RazorAssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto\ArquitecturaPropuestaJesus\CalculinWeb\obj\Debug\netcoreapp2.1\AlojamientoCalculin.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Proyecto\ArquitecturaPropuestaJesus\CalculinWeb\obj\Debug\netcoreapp2.1\AlojamientoCalculin.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto\ArquitecturaPropuestaJesus\CalculinWeb\obj\Debug\netcoreapp2.1\AlojamientoCalculin.RazorTargetAssemblyInfo.cache
+C:\Users\usuario\Desktop\Proyecto\ArquitecturaPropuestaJesus\CalculinWeb\obj\Debug\netcoreapp2.1\AlojamientoCalculin.dll
+C:\Users\usuario\Desktop\Proyecto\ArquitecturaPropuestaJesus\CalculinWeb\obj\Debug\netcoreapp2.1\AlojamientoCalculin.pdb

@@ -1,0 +1,9 @@
+C:\Users\usuario\Desktop\ProyectoJesus261018\TestForex\dotnet-forex-quotes-master\bin\Release\ForexQuotes.dll
+C:\Users\usuario\Desktop\ProyectoJesus261018\TestForex\dotnet-forex-quotes-master\bin\Release\ForexQuotes.pdb
+C:\Users\usuario\Desktop\ProyectoJesus261018\TestForex\dotnet-forex-quotes-master\bin\Release\Newtonsoft.Json.dll
+C:\Users\usuario\Desktop\ProyectoJesus261018\TestForex\dotnet-forex-quotes-master\bin\Release\Newtonsoft.Json.xml
+C:\Users\usuario\Desktop\ProyectoJesus261018\TestForex\dotnet-forex-quotes-master\obj\Release\ForexQuotes.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\ProyectoJesus261018\TestForex\dotnet-forex-quotes-master\obj\Release\ForexQuotes.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ProyectoJesus261018\TestForex\dotnet-forex-quotes-master\obj\Release\ForexQuotes.csproj.CopyComplete
+C:\Users\usuario\Desktop\ProyectoJesus261018\TestForex\dotnet-forex-quotes-master\obj\Release\ForexQuotes.dll
+C:\Users\usuario\Desktop\ProyectoJesus261018\TestForex\dotnet-forex-quotes-master\obj\Release\ForexQuotes.pdb

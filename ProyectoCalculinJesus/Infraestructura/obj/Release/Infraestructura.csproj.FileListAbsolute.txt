@@ -1,0 +1,10 @@
+C:\Users\usuario\Desktop\Proyecto\ArquitecturaPropuestaJesus\Infraestructura\bin\Release\Monedas.csv
+C:\Users\usuario\Desktop\Proyecto\ArquitecturaPropuestaJesus\Infraestructura\bin\Release\Infraestructura.dll
+C:\Users\usuario\Desktop\Proyecto\ArquitecturaPropuestaJesus\Infraestructura\bin\Release\Infraestructura.pdb
+C:\Users\usuario\Desktop\Proyecto\ArquitecturaPropuestaJesus\Infraestructura\bin\Release\Modelo.dll
+C:\Users\usuario\Desktop\Proyecto\ArquitecturaPropuestaJesus\Infraestructura\bin\Release\Modelo.pdb
+C:\Users\usuario\Desktop\Proyecto\ArquitecturaPropuestaJesus\Infraestructura\obj\Release\Infraestructura.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Proyecto\ArquitecturaPropuestaJesus\Infraestructura\obj\Release\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Proyecto\ArquitecturaPropuestaJesus\Infraestructura\obj\Release\Infraestructura.csproj.CopyComplete
+C:\Users\usuario\Desktop\Proyecto\ArquitecturaPropuestaJesus\Infraestructura\obj\Release\Infraestructura.dll
+C:\Users\usuario\Desktop\Proyecto\ArquitecturaPropuestaJesus\Infraestructura\obj\Release\Infraestructura.pdb
